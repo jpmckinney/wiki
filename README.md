@@ -17,6 +17,4 @@
 * [GSA/pdf-filler](https://github.com/GSA/pdf-filler): PDF Filler is a RESTful service (API) to aid in the completion of existing PDF-based forms and empowers web developers to use browser-based forms and modern web standards to facilitate the collection of information.
 * [18F/doc_processing_toolkit](https://github.com/18F/doc_processing_toolkit): Python library to extract text from PDF, and default to OCR when text extraction fails.
 * [jsfenfen/whatwordwhere](https://github.com/jsfenfen/whatwordwhere): Tooling to extract data from scanned paper forms OCR-ed by Tesseract using the HOCR standard.
-* [okfn/pdftables](https://github.com/okfn/pdftables): A library for extracting tables from PDF files
-* [ashima/pdf-table-extract](https://github.com/ashima/pdf-table-extract): Extract tables from PDF pages.
 * [CrossRef/pdfextract](https://github.com/CrossRef/pdfextract): A tool and library that can extract various areas of text from a PDF, especially a scholarly article PDF.
